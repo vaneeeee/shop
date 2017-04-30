@@ -1,0 +1,1 @@
+/var/www/html/shop1/app/code/Emthemes/QuickShop/view/frontend/web/js/quickshop.js

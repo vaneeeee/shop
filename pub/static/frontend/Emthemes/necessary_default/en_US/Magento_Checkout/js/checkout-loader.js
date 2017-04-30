@@ -1,0 +1,1 @@
+/var/www/html/shop1/vendor/magento/module-checkout/view/frontend/web/js/checkout-loader.js

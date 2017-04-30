@@ -1,0 +1,1 @@
+/var/www/html/shop1/vendor/magento/module-theme/view/frontend/web/js/view/messages.js

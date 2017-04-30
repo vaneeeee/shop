@@ -1,0 +1,1 @@
+/var/www/html/shop1/vendor/magento/module-admin-notification/view/adminhtml/web/toolbar_entry.js
