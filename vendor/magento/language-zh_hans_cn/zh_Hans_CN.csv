@@ -1302,30 +1302,30 @@ Categories,分类,module,Magento_Catalog
 "Category is not available for requested store.",类别不是可用于请求的存储区。,module,Magento_Catalog
 "There was a category move error.",出现了一个类别移动错误。,module,Magento_Catalog
 "There was a category move error. %1",出现了一个类别移动错误。%1,module,Magento_Catalog
-"You moved the category",你移动的类别,module,Magento_Catalog
+"You moved the category",您已移动此类别,module,Magento_Catalog
 "Attribute ""%1"" is required.","""%1""属性是必需的。",module,Magento_Catalog
 "Something went wrong while saving the category.",保存该类别时出了错。,module,Magento_Catalog
-"You saved the category.",你保存的类别。,module,Magento_Catalog
+"You saved the category.",您已保存此类别。,module,Magento_Catalog
 "Please select products for attributes update.",请选择产品更新属性。,module,Magento_Catalog
 "Please make sure to define SKU values for all processed products.","请务必定义所有加工产品的 SKU 值。",module,Magento_Catalog
-"A total of %1 record(s) were updated.","更新记录 %1",module,Magento_Catalog
-"Something went wrong while updating the product(s) attributes.",在更新的产品属性时出了错。,module,Magento_Catalog
-Catalog,目录重写,module,Magento_Catalog
+"A total of %1 record(s) were updated.","更新记录 %1条",module,Magento_Catalog
+"Something went wrong while updating the product(s) attributes.",在更新产品属性时出了错。,module,Magento_Catalog
+Catalog,目录,module,Magento_Catalog
 "Manage Product Attributes",管理产品属性,module,Magento_Catalog
 "We can't delete the attribute.",我们不能删除该属性。,module,Magento_Catalog
-"You deleted the product attribute.",你删除的产品属性。,module,Magento_Catalog
+"You deleted the product attribute.",您已删除此产品属性。,module,Magento_Catalog
 "We can't find an attribute to delete.",我们找不到要删除的属性。,module,Magento_Catalog
 "This attribute no longer exists.",此属性不再存在。,module,Magento_Catalog
-"This attribute cannot be edited.",不能编辑此属性。,module,Magento_Catalog
+"This attribute cannot be edited.",此属性不能被编辑。,module,Magento_Catalog
 "Edit Product Attribute",编辑产品属性,module,Magento_Catalog
 "An attribute set named '%1' already exists.","属性集，名为""%1""已经存在。",module,Magento_Catalog
 "Something went wrong while saving the attribute.",保存该属性时，出了错。,module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","属性代码""%1""不合法。该字段只能使用字母 (a-z)，数字 (0-9) 或下划线(_)，第一个字符应该是字母。",module,Magento_Catalog
 "We can't update the attribute.",我们不能更新的属性。,module,Magento_Catalog
-"You saved the product attribute.",你保存的产品属性。,module,Magento_Catalog
+"You saved the product attribute.",您已保存此产品属性。,module,Magento_Catalog
 "An attribute with this code already exists.",这段代码的属性已经存在。,module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","已经存在具有相同的代码 (%1) 的属性。",module,Magento_Catalog
-"You duplicated the product.",你复制的产品。,module,Magento_Catalog
+"You duplicated the product.",你已复制此产品。,module,Magento_Catalog
 "This product no longer exists.",此产品不存在。,module,Magento_Catalog
 Products,产品展示,module,Magento_Catalog
 "A group with the same name already exists.",具有相同名称的组已存在。,module,Magento_Catalog
@@ -1334,31 +1334,31 @@ Products,产品展示,module,Magento_Catalog
 "A total of %1 record(s) have been updated.","已经更新 %1的记录",module,Magento_Catalog
 "Something went wrong while updating the product(s) status.",更新产品状态时出了错。,module,Magento_Catalog
 "Unable to save product",无法保存产品,module,Magento_Catalog
-"You saved the product.",你保存的产品。,module,Magento_Catalog
+"You saved the product.",您已保存此产品。,module,Magento_Catalog
 "SKU for product %1 has been changed to %2.","为产品 %1 SKU 已改为 %2。",module,Magento_Catalog
 "The image cannot be removed as it has been assigned to the other image role",图像不能删除，因为它已被分配给其他图像作用,module,Magento_Catalog
 "New Attribute Set",新的属性集,module,Magento_Catalog
-"The attribute set has been removed.",已删除的属性集。,module,Magento_Catalog
-"We can't delete this set right now.",我们现在不能删除这一套。,module,Magento_Catalog
+"The attribute set has been removed.",这个属性集已经被删除。,module,Magento_Catalog
+"We can't delete this set right now.",我们现在不能删除这一集合。,module,Magento_Catalog
 "New Set",新集,module,Magento_Catalog
 "Manage Product Sets",管理产品集,module,Magento_Catalog
 "Manage Attribute Sets",管理属性集,module,Magento_Catalog
 "This attribute set no longer exists.",此属性设置不再存在。,module,Magento_Catalog
-"You saved the attribute set.",你保存的属性集。,module,Magento_Catalog
+"You saved the attribute set.",您已保存此属性集。,module,Magento_Catalog
 "Something went wrong while saving the attribute set.",保存属性集时出了错。,module,Magento_Catalog
-"You added product %1 to the comparison list.","你添加产品 %1 到比较列表中。",module,Magento_Catalog
-"You cleared the comparison list.",你清除了比较列表。,module,Magento_Catalog
-"Something went wrong  clearing the comparison list.",什么地方出毛病结算比较列表。,module,Magento_Catalog
-"You removed product %1 from the comparison list.","您从比较列表中删除产品 %1。",module,Magento_Catalog
+"You added product %1 to the comparison list.","您添加产品 %1 到比较列表中。",module,Magento_Catalog
+"You cleared the comparison list.",您清除了比较列表。,module,Magento_Catalog
+"Something went wrong  clearing the comparison list.",清楚比较列表时出了错。,module,Magento_Catalog
+"You removed product %1 from the comparison list.","您已经从比较列表中删除产品 %1。",module,Magento_Catalog
 "1 item","产品 %1",module,Magento_Catalog
 "%1 items","%1 项目",module,Magento_Catalog
 "Invalid attribute %1","无效属性 %1",module,Magento_Catalog
-Grid,%1及以上,module,Magento_Catalog
+Grid,%1网格,module,Magento_Catalog
 List,列表,module,Magento_Catalog
 All,全部,module,Magento_Catalog
 "Product is not loaded",产品未加载,module,Magento_Catalog
 "Bad controller interface for showing product",坏的控制器接口，用于显示产品,module,Magento_Catalog
-"Make sure the To Date is later than or the same as the From Date.",请确保对日期迟于或从日期相同。,module,Magento_Catalog
+"Make sure the To Date is later than or the same as the From Date.",请确保结束日期迟于或等于开始日期。,module,Magento_Catalog
 "Sorry, but we can't find the new parent category you selected.",抱歉，但我们找不到您选择的新的父类别。,module,Magento_Catalog
 "Sorry, but we can't find the new category you selected.",抱歉，但我们找不到您选择的新类别。,module,Magento_Catalog
 "We can't move the category because the parent category name matches the child category name.",我们无法移动的类别，因为父类别名称匹配的子类别名称。,module,Magento_Catalog
@@ -1386,7 +1386,7 @@ frontend_label,frontend_label,module,Magento_Catalog
 "Automatic (equalize price ranges)","自动 (均衡价格范围)",module,Magento_Catalog
 "Automatic (equalize product counts)","自动 (均衡产品计数)",module,Magento_Catalog
 Manual,手动,module,Magento_Catalog
-Fixed,百分之,module,Magento_Catalog
+Fixed,固定的,module,Magento_Catalog
 Percent,%,module,Magento_Catalog
 "-- Please select --","-- 请选择 --",module,Magento_Catalog
 "Product Thumbnail Itself",产品缩略图本身,module,Magento_Catalog
@@ -1396,13 +1396,13 @@ Percent,%,module,Magento_Catalog
 Stretch,拉伸,module,Magento_Catalog
 Tile,平铺,module,Magento_Catalog
 Top/Left,上方/左方,module,Magento_Catalog
-Top/Right,"上, / 右",module,Magento_Catalog
-Bottom/Left,"下, / 左",module,Magento_Catalog
+Top/Right,"上方/右方",module,Magento_Catalog
+Bottom/Left,"下方/左方",module,Magento_Catalog
 Bottom/Right,下方/右方,module,Magento_Catalog
 Center,居中,module,Magento_Catalog
 "%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 并不延伸 \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","未知的 EAV 索引器类型""%1""。",module,Magento_Catalog
-"We can't rebuild the index for an undefined product.",我们不能重建索引未定义的产品。,module,Magento_Catalog
+"We can't rebuild the index for an undefined product.",我们不能给未定义的产品重建索引。,module,Magento_Catalog
 "Bad value was supplied.",提供的值不正确。,module,Magento_Catalog
 "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","平面目录模块的 %2$d 过滤和/或可排序属性的限制。目前有 %1$d 人。请减少可筛选排序属性以使用此模块",module,Magento_Catalog
 "Unsupported product type ""%1"".","不受支持的产品类型""%1""。",module,Magento_Catalog
@@ -1474,7 +1474,7 @@ px.,全部展开,module,Magento_Catalog
 "The file is empty. Please choose another one",该文件是空的。请选择另一个,module,Magento_Catalog
 "Some of the selected item options are not currently available.",选定的项选项中有一些不当前可用。,module,Magento_Catalog
 "The text is too long.",文本太长。,module,Magento_Catalog
-"This product doesn't have tier price",这种产品没有一级价格,module,Magento_Catalog
+"This product doesn't have tier price",这种产品没有阶梯价格,module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","产品还没有与此类数据组价格: customerGroupId = '%1'，网站 = %2，数量 = %3",module,Magento_Catalog
 "Invalid data provided for tier_price","为 tier_price 提供的数据无效",module,Magento_Catalog
 "Please provide valid data",请提供有效的数据,module,Magento_Catalog
@@ -1490,7 +1490,7 @@ px.,全部展开,module,Magento_Catalog
 Search,搜索,module,Magento_Catalog
 "Catalog, Search",目录搜索,module,Magento_Catalog
 "Something went wrong while removing products from the websites.",从网站删除产品时，出了错。,module,Magento_Catalog
-"Something went wrong while adding products to websites.",向网站中添加产品时出了错。,module,Magento_Catalog
+"Something went wrong while adding products to websites.",向网站中添加产品时，出了错。,module,Magento_Catalog
 "Group with id ""%1"" does not exist.","Id 为""%1""组不存在。",module,Magento_Catalog
 "Attribute group that contains system attributes can not be deleted",不能删除包含系统属性的属性组,module,Magento_Catalog
 "Collection provider is not registered",集合提供程序没有注册,module,Magento_Catalog
@@ -1519,7 +1519,7 @@ message,信息,module,Magento_Catalog
 fl,fl,module,Magento_Catalog
 123,123,module,Magento_Catalog
 Select...,选择。。。,module,Magento_Catalog
-"Are you sure you want to delete this category?",你确定要删除这个分类吗？,module,Magento_Catalog
+"Are you sure you want to delete this category?",您确定要删除这个分类吗？,module,Magento_Catalog
 "ID: %1","ID: %1",module,Magento_Catalog
 "Set root category for this store in the <a href=""%1"">configuration</a>.","在 <a href=""%1""> 配置</a> 中设置为此存储根类别。",module,Magento_Catalog
 "This operation can take a long time",此操作可能需要很长时间,module,Magento_Catalog
@@ -1540,7 +1540,7 @@ Groups,团体,module,Magento_Catalog
 "Please enter a new group name.",请输入一个新的组名称。,module,Magento_Catalog
 "An attribute group named \"/name/\" already exists\".","属性组""已经 exists\"命名为 \"/name/\。",module,Magento_Catalog
 "Sorry, we're unable to complete this request.",对不起，我们无法完成这个请求。,module,Magento_Catalog
-"You can't remove attributes from this attribute set.",你不能移除此属性集的属性。,module,Magento_Catalog
+"You can't remove attributes from this attribute set.",您不能移除此属性集的属性。,module,Magento_Catalog
 "Custom Options",自定义选项,module,Magento_Catalog
 "This is a required option.",这是必需的选项。,module,Magento_Catalog
 "The field isn't complete.",该字段不是完整的。,module,Magento_Catalog
@@ -1568,7 +1568,7 @@ Backorders,延期交货,module,Magento_Catalog
 "Add Product To Websites",向网站中添加产品,module,Magento_Catalog
 "Remove Product From Websites",从网站中删除产品,module,Magento_Catalog
 "To hide an item in catalog or search results, set the status to ""Disabled"".","若要隐藏目录或搜索结果中的项目，请将状态设置为""禁用""。",module,Magento_Catalog
-"We can't save custom-defined options for bundles with dynamic pricing.",我们无法保存自定义选项为束与动态定价。,module,Magento_Catalog
+"We can't save custom-defined options for bundles with dynamic pricing.",我们无法保存动态价格的自定义选项作为一束。,module,Magento_Catalog
 "Delete Custom Option",删除自定义选项,module,Magento_Catalog
 "Sort Custom Options",自定义的排序选项,module,Magento_Catalog
 "Option Title",新选项,module,Magento_Catalog
@@ -1583,7 +1583,7 @@ Title,标题,module,Magento_Catalog
 "Sort Custom Option",排序的自定义选项,module,Magento_Catalog
 "Max Characters",最大字符数,module,Magento_Catalog
 "Customer Group",客户组,module,Magento_Catalog
-"Item Price",项目价格,module,Magento_Catalog
+"Item Price",商品价格,module,Magento_Catalog
 Action,操作,module,Magento_Catalog
 "and above",及以上,module,Magento_Catalog
 "Delete Tier",删除层,module,Magento_Catalog
@@ -1598,7 +1598,7 @@ Role,职能,module,Magento_Catalog
 "start typing to search attribute",开始键入搜索属性,module,Magento_Catalog
 "Basic Settings",基本设置,module,Magento_Catalog
 "Advanced Settings",高级设置,module,Magento_Catalog
-"Changes have been made to this section that have not been saved.",已更改尚未保存此节。,module,Magento_Catalog
+"Changes have been made to this section that have not been saved.",已更改，尚未保存此部分。,module,Magento_Catalog
 "This tab contains invalid data. Please resolve this before saving.",此选项卡包含无效数据。请在保存前解决此问题。,module,Magento_Catalog
 Actions,动作,module,Magento_Catalog
 "Mass Actions",批量操作,module,Magento_Catalog
@@ -1620,13 +1620,13 @@ Actions,动作,module,Magento_Catalog
 "In stock",有货,module,Magento_Catalog
 "Out of stock",缺货,module,Magento_Catalog
 "Add to Wish List",添加到收藏夹,module,Magento_Catalog
-"You have no items to compare.",你有没有要比较的项目。,module,Magento_Catalog
+"You have no items to compare.",你没有要比较的项目。,module,Magento_Catalog
 "Remove This Item",删除该内容,module,Magento_Catalog
 Compare,比较,module,Magento_Catalog
 "Clear All",全部清除,module,Magento_Catalog
 Prev,上一页,module,Magento_Catalog
 Next,下一个,module,Magento_Catalog
-"We can't find products matching the selection.",我们找不到选择匹配的产品。,module,Magento_Catalog
+"We can't find products matching the selection.",我们找不到匹配条件的产品。,module,Magento_Catalog
 "Add to Compare",添加并比较,module,Magento_Catalog
 "Learn More",了解更多,module,Magento_Catalog
 "We found other products you might like!",我们发现你可能会喜欢其他产品!,module,Magento_Catalog
@@ -1650,7 +1650,7 @@ Availability,库存,module,Magento_Catalog
 Ok,OK,module,Magento_Catalog
 Cancel,保存,module,Magento_Catalog
 Submit,提交,module,Magento_Catalog
-"We don't recognize or support this file extension type.",我们不承认或支持该文件扩展类型。,module,Magento_Catalog
+"We don't recognize or support this file extension type.",我们不识别或支持该文件扩展类型。,module,Magento_Catalog
 "Configure Product",配置产品,module,Magento_Catalog
 OK,OK,module,Magento_Catalog
 "Select type of option.",选择选项的类型。,module,Magento_Catalog
@@ -1795,10 +1795,10 @@ Catalog,目录重写,module,Magento_CatalogEvent
 "New Event",新的事件,module,Magento_CatalogEvent
 "Default Values",默认值,module,Magento_CatalogEvent
 "Something went wrong while saving this event.",保存此事件时，出了错。,module,Magento_CatalogEvent
-"We did not upload your image.",我们没上传你的形象。,module,Magento_CatalogEvent
-"You saved the event.",您已保存的事件。,module,Magento_CatalogEvent
+"We did not upload your image.",我们没上传你的图像。,module,Magento_CatalogEvent
+"You saved the event.",您已保存此事件。,module,Magento_CatalogEvent
 "%1 is required.","%1 是必需的。",module,Magento_CatalogEvent
-"Please make sure the end date follows the start date.",请确保结束日期遵循的开始日期。,module,Magento_CatalogEvent
+"Please make sure the end date follows the start date.",请确保结束日在开始日期之后。,module,Magento_CatalogEvent
 "Event for selected category",所选类别的的事件,module,Magento_CatalogEvent
 "Lister Block","Lister 模块",module,Magento_CatalogEvent
 "This product is no longer on sale.",本产品是不再发售。,module,Magento_CatalogEvent
@@ -1891,26 +1891,26 @@ Edit,编辑,module,Magento_CatalogEvent
 "Product Name",产品名称,module,Magento_CatalogInventory
 Qty,数量,module,Magento_CatalogInventory
 Inventory,库存,module,Magento_CatalogInventory
-"Stock Options",股票期权,module,Magento_CatalogInventory
-"Decrease Stock When Order is Placed",减少库存时订单,module,Magento_CatalogInventory
-"Set Items' Status to be In Stock When Order is Cancelled",设置项目的状态，要在库存当订单被取消,module,Magento_CatalogInventory
-"Display Out of Stock Products",显示库存产品的出,module,Magento_CatalogInventory
+"Stock Options",库存选项,module,Magento_CatalogInventory
+"Decrease Stock When Order is Placed",下订单时，减少库存,module,Magento_CatalogInventory
+"Set Items' Status to be In Stock When Order is Cancelled",当订单被取消，设置产品的状态为有货,module,Magento_CatalogInventory
+"Display Out of Stock Products",显示无货的产品,module,Magento_CatalogInventory
 "Products will still be shown by direct product URLs.","产品仍将通过直接产品 Url 所示。",module,Magento_CatalogInventory
 "Only X left Threshold","只留下阈值的 X",module,Magento_CatalogInventory
-"Display products availability in stock on Storefront.",在股市上店面中显示产品的可用性。,module,Magento_CatalogInventory
-"Product Stock Options",产品股票期权,module,Magento_CatalogInventory
-"Please note that these settings apply to individual items in the cart, not to the entire cart.",请注意，这些设置适用于单个项目的购物车，不到整个购物车中。,module,Magento_CatalogInventory
-"Manage Stock",数量增加,module,Magento_CatalogInventory
+"Display products availability in stock on Storefront.",在店铺中显示产品的可用性为有货。,module,Magento_CatalogInventory
+"Product Stock Options",产品库存选项,module,Magento_CatalogInventory
+"Please note that these settings apply to individual items in the cart, not to the entire cart.",请注意，这些设置适用于购物车的单个商品，不应用到整个购物车中。,module,Magento_CatalogInventory
+"Manage Stock",管理库存,module,Magento_CatalogInventory
 Backorders,延期交货,module,Magento_CatalogInventory
 "Maximum Qty Allowed in Shopping Cart",购物车中允许的最大数量,module,Magento_CatalogInventory
-"Out-of-Stock Threshold",股份制阈值,module,Magento_CatalogInventory
+"Out-of-Stock Threshold",缺货门槛,module,Magento_CatalogInventory
 "Minimum Qty Allowed in Shopping Cart",购物车中允许的最小数量,module,Magento_CatalogInventory
 "Notify for Quantity Below",对于下面的数量通知,module,Magento_CatalogInventory
-"Automatically Return Credit Memo Item to Stock",自动返回到股票的信用备忘项目,module,Magento_CatalogInventory
+"Automatically Return Credit Memo Item to Stock",Automatically Return Credit Memo Item to Stock,module,Magento_CatalogInventory
 "Enable Qty Increments",启用数量增量,module,Magento_CatalogInventory
 "Qty Increments",数量的增量,module,Magento_CatalogInventory
-Stock,股票,module,Magento_CatalogInventory
-"Index stock",股票指数,module,Magento_CatalogInventory
+Stock,库存,module,Magento_CatalogInventory
+"Index stock",库存指数,module,Magento_CatalogInventory
 Quantity,数量,module,Magento_CatalogInventory
 "New Permission","<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories。",module,Magento_CatalogPermissions
 "You already have a permission with this scope.",您已经具有此范围的权限。,module,Magento_CatalogPermissions
@@ -1962,8 +1962,8 @@ Actions,动作,module,Magento_CatalogRule
 Apply,应用,module,Magento_CatalogRule
 "Apply as percentage of original",申请作为原始大小的百分比,module,Magento_CatalogRule
 "Apply as fixed amount",申请作为固定金额,module,Magento_CatalogRule
-"Adjust final price to this percentage",调整这一比例最终价格,module,Magento_CatalogRule
-"Adjust final price to discount value",调整最终价格以价值大打折扣,module,Magento_CatalogRule
+"Adjust final price to this percentage",根据比例调整最终价格,module,Magento_CatalogRule
+"Adjust final price to discount value",根据折扣调整最终价格,module,Magento_CatalogRule
 "Discount Amount",折扣金额,module,Magento_CatalogRule
 "Subproduct discounts",副产品折扣,module,Magento_CatalogRule
 No,否,module,Magento_CatalogRule
@@ -1988,9 +1988,9 @@ Type,类型,module,Magento_CatalogRule
 SKU,SKU,module,Magento_CatalogRule
 Product,产品,module,Magento_CatalogRule
 Promotions,促销活动,module,Magento_CatalogRule
-"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","我们发现不适用的更新的规则。请单击""应用规则""来更新您的目录。",module,Magento_CatalogRule
-"We can't apply the rules.",我们不能应用的规则。,module,Magento_CatalogRule
-"You deleted the rule.",规则已保存。,module,Magento_CatalogRule
+"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","我们发现新规则没有被应用。请单击""应用规则""来更新您的目录。",module,Magento_CatalogRule
+"We can't apply the rules.",我们不能应用此规则。,module,Magento_CatalogRule
+"You deleted the rule.",您已删除此规则。,module,Magento_CatalogRule
 "We can't delete this rule right now. Please review the log and try again.",我们现在不能删除该规则。请查看日志并再试一次。,module,Magento_CatalogRule
 "We can't find a rule to delete.",我们找不到要删除的规则。,module,Magento_CatalogRule
 "This rule no longer exists.",该规则已不存在。,module,Magento_CatalogRule
@@ -1998,7 +1998,7 @@ Promotions,促销活动,module,Magento_CatalogRule
 "Edit Rule",修改规则,module,Magento_CatalogRule
 Catalog,目录重写,module,Magento_CatalogRule
 "Wrong rule specified.",指定错误的规则。,module,Magento_CatalogRule
-"You saved the rule.",你保存的规则。,module,Magento_CatalogRule
+"You saved the rule.",您已保存此规则。,module,Magento_CatalogRule
 "Something went wrong while saving the rule data. Please review the error log.",保存规则数据时出了错。请查看错误日志。,module,Magento_CatalogRule
 Promo,促销,module,Magento_CatalogRule
 "Could not rebuild index for empty products array",无法重建索引空的产品阵列,module,Magento_CatalogRule
@@ -2054,7 +2054,7 @@ Search,搜索,module,Magento_CatalogSearch
 "We can't find any items matching these search criteria.",我们找不到任何这些搜索条件匹配的项。,module,Magento_CatalogSearch
 "Modify your search",修改您的搜索。,module,Magento_CatalogSearch
 name,名字,module,Magento_CatalogSearch
-"Don't see what you're looking for?",找不到想找的的东西？,module,Magento_CatalogSearch
+"Don't see what you're looking for?",找不到您想找的的东西？,module,Magento_CatalogSearch
 "Your search returned no results.",您的搜索没有任何结果。,module,Magento_CatalogSearch
 "Popular Search Terms",热门搜索词,module,Magento_CatalogSearch
 "Catalog Search",分类搜索,module,Magento_CatalogSearch
@@ -2079,7 +2079,7 @@ SKU,SKU,module,Magento_CatalogWidget
 "Catalog Products List",产品网格模板,module,Magento_CatalogWidget
 "List of Products",产品列表,module,Magento_CatalogWidget
 Title,标题,module,Magento_CatalogWidget
-"Display Page Control",如果没有设置，默认为86400。为了实是更新，请清空HTML块缓存输出,module,Magento_CatalogWidget
+"Display Page Control",显示页面控制,module,Magento_CatalogWidget
 "Number of Products per Page",每页显示的产品数量,module,Magento_CatalogWidget
 "Number of Products to Display",显示产品的数量,module,Magento_CatalogWidget
 Template,模板,module,Magento_CatalogWidget
@@ -2088,28 +2088,28 @@ Template,模板,module,Magento_CatalogWidget
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","由 86400 默认情况下，如果不是设置。若要立即刷新，请清除块 HTML 输出缓存。",module,Magento_CatalogWidget
 Conditions,条件,module,Magento_CatalogWidget
 "Shopping Cart",购物车,module,Magento_Checkout
-"Invalid method: %1",支付失败邮件副本发送方式,module,Magento_Checkout
+"Invalid method: %1",无效支付方式：%1,module,Magento_Checkout
 City,城市,module,Magento_Checkout
 Country,国家,module,Magento_Checkout
 State/Province,州/省,module,Magento_Checkout
 "Zip/Postal Code",邮编,module,Magento_Checkout
 "My Cart (1 item)","我的购物车 (1 项)",module,Magento_Checkout
-"My Cart (%1 items)","我的购物车 (%1 项目)",module,Magento_Checkout
+"My Cart (%1 items)","我的购物车 (%1 项)",module,Magento_Checkout
 "My Cart",我的购物车,module,Magento_Checkout
 "Minimum order amount is %1","最小起订量是 %1",module,Magento_Checkout
 "Customer is already registered",客户已注册,module,Magento_Checkout
 "Your session has expired",您的会话已过期,module,Magento_Checkout
 "You added %1 to your shopping cart.","您已添加 %1 到您的购物车",module,Magento_Checkout
-"We can't add this item to your shopping cart right now.",我们这个项目不能添加到您的购物车现在。,module,Magento_Checkout
+"We can't add this item to your shopping cart right now.",这个产品暂时不能添加到您的购物车。,module,Magento_Checkout
 "Out of stock",缺货,module,Magento_Checkout
 "We can't find the quote item.",我们找不到引用项。,module,Magento_Checkout
 "We cannot configure the product.",我们不能配置该产品。,module,Magento_Checkout
 "You used coupon code ""%1"".","你使用优惠券代码""%1""。",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.",编辑项目参数,module,Magento_Checkout
-"You canceled the coupon code.",你取消的优惠券代码。,module,Magento_Checkout
+"You canceled the coupon code.",您已取消此优惠券代码。,module,Magento_Checkout
 "We cannot apply the coupon code.",我们不能适用的优惠券代码。,module,Magento_Checkout
 "We can't remove the item.",我们不能删除该项目。,module,Magento_Checkout
-"%1 was updated in your shopping cart.","%1 已更新您的购物车中。",module,Magento_Checkout
+"%1 was updated in your shopping cart.","%1 已在您的购物车中更新。",module,Magento_Checkout
 "We can't update the item right now.",我们现在不能更新该项目。,module,Magento_Checkout
 "We can't update the shopping cart.",我们不能更新购物车。,module,Magento_Checkout
 "One-page checkout is turned off.",单页结帐处于关闭状态。,module,Magento_Checkout
@@ -2121,13 +2121,13 @@ Checkout,结帐,module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 不延长 \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "We can't find the product.",我们找不到该产品,module,Magento_Checkout
 "The product does not exist.",产品不存在。,module,Magento_Checkout
-"We don't have some of the products you want.",我们不要有一些你想要的产品。,module,Magento_Checkout
-"We don't have as many of some products as you want.",如你所愿，我们没有那么多一些产品。,module,Magento_Checkout
+"We don't have some of the products you want.",我们没有其中一些产品。,module,Magento_Checkout
+"We don't have as many of some products as you want.",抱歉，我们没有这么多产品。,module,Magento_Checkout
 "Quantity was recalculated from %1 to %2","数量是重新计算从 %1 到 %2",module,Magento_Checkout
 "We adjusted product quantities to fit the required increments.",我们调整产品数量以适应所需的增量。,module,Magento_Checkout
 "This quote item does not exist.",这一报价项目不存在。,module,Magento_Checkout
-"Display number of items in cart",在购物车中显示项目的数,module,Magento_Checkout
-"Display item quantities",显示物料数量,module,Magento_Checkout
+"Display number of items in cart",在购物车中显示产品的数量,module,Magento_Checkout
+"Display item quantities",显示产品数量,module,Magento_Checkout
 "Shipping address is not set",运营商有这样的方法没有发现：%1%2,module,Magento_Checkout
 "Unable to save address. Please, check input data.",无法保存地址。请检查输入的数据。,module,Magento_Checkout
 "Carrier with such method not found: %1, %2","承运人用这样的方法找不到: %1，%2",module,Magento_Checkout
