@@ -2441,8 +2441,8 @@ System,系统,module,Magento_Config
 "We can't save the Cron expression.",我们不能保存货币表达式,module,Magento_Config
 "Sorry, we haven't installed the default display currency you selected.",对不起，我们还没有安装您选择的默认显示货币。,module,Magento_Config
 "Sorry, the default display currency you selected is not available in allowed currencies.",很抱歉，您所选的默认显示货币不可允许货币。,module,Magento_Config
-"Please correct the email address: ""%1"".","请正确的电子邮件地址:""%1""。",module,Magento_Config
-"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","发件人名称""%1""不是有效的。请使用仅可见字符和空格。",module,Magento_Config
+"Please correct the email address: ""%1"".","请填写正确的电子邮件地址:""%1""。",module,Magento_Config
+"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","发件人名称""%1""不是有效的。请使用有效字符和空格。",module,Magento_Config
 "Maximum sender name length is 255. Please correct your settings.","最大发件人名称长度是 255。请更正您的设置。",module,Magento_Config
 "The file you're uploading exceeds the server size limit of %1 kilobytes.","您所上传的文件超过服务器 %1 千字节的大小限制。",module,Magento_Config
 "The base directory to upload file is not specified.",未指定要上载文件的基目录。,module,Magento_Config
