@@ -1,0 +1,1 @@
+/var/www/html/shop1/vendor/magento/module-configurable-product/view/frontend/web/js/configurable.js

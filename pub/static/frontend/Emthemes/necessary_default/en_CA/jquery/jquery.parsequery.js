@@ -1,0 +1,1 @@
+/var/www/html/shop1/lib/web/jquery/jquery.parsequery.js

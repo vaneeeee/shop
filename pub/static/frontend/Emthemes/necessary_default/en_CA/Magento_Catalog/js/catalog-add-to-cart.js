@@ -1,0 +1,1 @@
+/var/www/html/shop1/app/design/frontend/Emthemes/necessary/default/Magento_Catalog/web/js/catalog-add-to-cart.js
